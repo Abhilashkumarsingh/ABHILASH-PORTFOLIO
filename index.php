@@ -27,7 +27,7 @@
 								<li>
 									<a href="#">Contact me</a>
 									<ul>
-										
+										<li><a href="mailto:helloabhilash2000@gmail.com">Github</a></li>
 										<li>
 											<a href="https://www.facebook.com/abhilash.kumar.58173000">Facebook<br/></a>
 										</li>
@@ -345,7 +345,7 @@
 									<ul class="contact">
 										<li>
 											<h3>GMAIL</h3>
-											<p><a href="#">helloabhilash2000@gmail.com</a></p>
+											<p><a href="mailto:helloabhilash2000@gmail.com">helloabhilash2000@gmail.com</a></p>
 										</li>
 										<li>
 											<h3>MOBILE</h3>
